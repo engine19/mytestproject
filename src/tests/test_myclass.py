@@ -21,3 +21,9 @@ class TestMyClass(object):
         mc.setPropA(1)
         print("{0}".format(mc))
         assert mc.PropA == 1
+        
+    def testC(self):
+        mc = MyClass()
+        mc.setPropA(1)
+        print("{0}".format(mc))
+        assert mc.PropA == 3
