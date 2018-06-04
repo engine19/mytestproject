@@ -1,4 +1,4 @@
 [
-  "test_myclass.py::TestMyClass::()::testA",
-  "test_myclass.py::TestMyClass::()::testB"
+  "tests/test_myclass.py::TestMyClass::()::testA",
+  "tests/test_myclass.py::TestMyClass::()::testB"
 ]

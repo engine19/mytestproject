@@ -1,1 +1,4 @@
-[]
+[
+  "src/tests/test_myclass.py::TestMyClass::()::testA",
+  "src/tests/test_myclass.py::TestMyClass::()::testB"
+]
