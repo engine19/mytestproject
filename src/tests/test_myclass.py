@@ -3,12 +3,7 @@ Created on Jun 4, 2018
 
 @author: Felhasználó
 '''
-import sys
-import os
-
-sys.path.append(os.path.join(os.path.dirname(sys.path[0]),'code'))
-
-from myclass import MyClass
+from src.code.myclass import MyClass
 
 class TestMyClass(object):
     def testA(self):
