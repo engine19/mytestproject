@@ -1,0 +1,6 @@
+{
+  "code/test/myclasstest.py::TestMyClass::()::testFuncA": true,
+  "code/test/myclasstest.py::TestMyClass::()::testFuncB": true,
+  "tests/test_myclass.py::TestMyClass::()::testFuncA": true,
+  "tests/test_myclass.py::TestMyClass::()::testFuncB": true
+}
