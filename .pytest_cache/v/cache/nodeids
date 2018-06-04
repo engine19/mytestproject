@@ -1,4 +1,5 @@
 [
   "src/tests/test_myclass.py::TestMyClass::()::testA",
-  "src/tests/test_myclass.py::TestMyClass::()::testB"
+  "src/tests/test_myclass.py::TestMyClass::()::testB",
+  "src/tests/test_myclass.py::TestMyClass::()::testC"
 ]

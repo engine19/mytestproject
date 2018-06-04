@@ -3,6 +3,7 @@ Created on Jun 4, 2018
 
 @author: Felhasználó
 '''
+
 from src.code.myclass import MyClass
 
 class TestMyClass(object):
@@ -19,6 +20,6 @@ class TestMyClass(object):
         
     def testC(self):
         mc = MyClass()
-        mc.setPropA(1)
+        mc.setPropA(3)
         print("{0}".format(mc))
         assert mc.PropA == 3
