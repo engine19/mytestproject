@@ -16,7 +16,7 @@ class TestMyClass2(object):
         mc = MyClass()
         mc.setPropA(1)
         print("{0}".format(mc))
-        assert mc.PropA == 2
+        assert mc.PropA == 1
         
     def testC(self):
         mc = MyClass()
