@@ -10,7 +10,7 @@ class TestMyClass2(object):
     def testA(self):
         mc = MyClass()
         print("{0}".format(mc))
-        assert mc.PropA != 1
+        assert mc.PropA != -1
         
     def testB(self):
         mc = MyClass()
