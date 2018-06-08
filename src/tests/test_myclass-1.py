@@ -1,7 +1,7 @@
 '''
 Created on Jun 4, 2018
 
-@author: Felhasználó
+@author: User
 '''
 
 from src.code.myclass import MyClass
